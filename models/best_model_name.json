@@ -1,0 +1,4 @@
+{
+  "model": "XGBoost",
+  "threshold": 0.5
+}

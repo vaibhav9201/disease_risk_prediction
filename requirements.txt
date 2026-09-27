@@ -1,0 +1,11 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+joblib
+
+# Advanced / optional (install to unlock the corresponding SRS features):
+xgboost      # advanced tree model (train.py uses it automatically if present)
+shap         # true SHAP explainability (explainability.py falls back without it)
+torch        # LSTM sequence model (train_lstm.py)
+streamlit    # interactive dashboard (dashboard/app.py)
