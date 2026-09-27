@@ -635,7 +635,7 @@ When using the dataset, refer to the original PhysioNet Challenge publication an
 
 # Author
 
-**Vibhanshu Solanki**
+**Vibhanshu Solanki And Piyush Solanki**
 
 Data Science / Machine Learning Project
 
